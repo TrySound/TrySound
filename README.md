@@ -13,4 +13,6 @@ Previously maintained:
 
 ---
 
-Available for hire. If you want me to build something for you contact me anywhere.
+Open to contract work as a Frontend Engineer.
+
+I care deeply about performance, web standards and DX. Previously shipped design tools, CRM systems and developer tooling.
