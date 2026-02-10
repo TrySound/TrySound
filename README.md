@@ -1,21 +1,30 @@
 
 ![portfolio](https://github.com/user-attachments/assets/46ec2714-b0ff-4116-b431-1d29e4a3d457)
 
-## Hi there 👋
+# Hey, I'm Bogdan 👋
 
-I love Web and Open Source. Building stuff here for more than a decade.
+**Frontend Engineer** · **Design Systems Specialist** · **Open Source Maintainer**
 
-Currently working on:
-- [Engramma](https://github.com/TrySound/engramma) - design tokens tool to help me create and manage design systems
-- [Webstudio](https://github.com/webstudio-is/webstudio) - visual website builder and Webflow alternative
+I build fast, accessible web experiences and developer tooling. 10+ years of shipping production code.
 
-Previously maintained:
-- [Postcss](https://github.com/postcss/postcss) - a tool for transforming CSS
-- [Rollup](https://github.com/rollup/rollup) - javascript bundler
-- [SVGO](https://github.com/svg/svgo) - SVG images minifier
+## 🔨 Currently Building
+
+- **[Engramma](https://github.com/TrySound/engramma)** – Design tokens tool
+- **[Webstudio](https://github.com/webstudio-is/webstudio)** – Open-source visual builder — Webflow alternative
+
+## 🏗️ Previous Maintenance
+
+- **[PostCSS](https://github.com/postcss/postcss)** – The CSS transformation ecosystem used by millions
+- **[Rollup](https://github.com/rollup/rollup)** – JavaScript module bundler powering Vite
+- **[SVGO](https://github.com/svg/svgo)** – SVG optimization tool
 
 ---
 
-Open to contract work as a Frontend Engineer.
+## 💼 Open for Work
 
-I care deeply about performance, web standards and DX. Previously shipped design tools, CRM systems and developer tooling.
+**Frontend Engineer — Contract/Full-time**
+
+- Design systems & developer experience
+- Shipped CRMs, design tools, CLI tools, real-time monitoring systems
+
+**[View Resume](https://trysound.io/hire-me)** · **[Contact me](mailto:opensource@trysound.io)**
