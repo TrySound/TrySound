@@ -1,6 +1,3 @@
-
-![portfolio](https://github.com/user-attachments/assets/46ec2714-b0ff-4116-b431-1d29e4a3d457)
-
 # Hey, I'm Bogdan 👋
 
 **Frontend Engineer** · **Design Systems Specialist** · **Open Source Maintainer**
@@ -28,3 +25,5 @@ I build fast, accessible web experiences and developer tooling. 10+ years of shi
 - Shipped CRMs, design tools, CLI tools, real-time monitoring systems
 
 **[View Resume](https://trysound.io/hire-me)** · **[Contact me](mailto:opensource@trysound.io)**
+
+![portfolio](https://github.com/user-attachments/assets/46ec2714-b0ff-4116-b431-1d29e4a3d457)
