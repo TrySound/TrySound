@@ -19,7 +19,7 @@ I build fast, accessible web experiences and developer tooling. 10+ years of shi
 
 ## 💼 Open for Work
 
-**Frontend Engineer — Contract/Full-time**
+**Full-Stack Engineer — Contract/Full-time**
 
 - Design systems & developer experience
 - Shipped CRMs, design tools, CLI tools, real-time monitoring systems
