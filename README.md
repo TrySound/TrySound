@@ -1,6 +1,6 @@
 # Hey, I'm Bogdan 👋
 
-**Frontend Engineer** · **Design Systems Specialist** · **Open Source Maintainer**
+**Full-Stack Engineer** · **Design Systems Specialist** · **Open Source Maintainer**
 
 I build fast, accessible web experiences and developer tooling. 10+ years of shipping production code.
 
