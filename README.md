@@ -12,6 +12,7 @@ Senior full-stack engineer specialising in build tools, performance, and user ex
 
 - **[Webstudio](https://github.com/webstudio-is/webstudio)** – Open-source visual builder — Webflow alternative
 - **[PostCSS](https://github.com/postcss/postcss)** – The CSS transformation ecosystem used by millions
+- **[cssnano](https://github.com/cssnano/cssnano)** - A modular minifier, built on top of the PostCSS ecosystem
 - **[Rollup](https://github.com/rollup/rollup)** – JavaScript module bundler powering Vite
 - **[SVGO](https://github.com/svg/svgo)** – SVG optimization tool
 
