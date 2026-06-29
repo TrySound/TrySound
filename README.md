@@ -2,10 +2,11 @@
 
 Senior full-stack engineer specialising in build tools, performance, and user experience. Over 13 years of experience building products across industrial software, freelance platforms, and design tools. Available for full-time, B2B freelance projects and technical consulting engagements.
 
-## 🔨 Currently Building
+## 🔨 Created a few projects
 
 - **[weareonhire!](weareonhire.com)** - professional networking platform
 - **[Engramma](https://github.com/TrySound/engramma)** – Design tokens tool
+- **[postcss-value-parser](https://github.com/postcss/postcss-value-parser)** - Parser/serializer of CSS values with 100M weekly downloads, used inside of [cssnano](https://github.com/cssnano/cssnano) and [stylelint](https://github.com/stylelint/stylelint/)
 
 ## 🏗️ Previously worked on
 
