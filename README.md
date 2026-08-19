@@ -12,7 +12,7 @@ Senior full-stack engineer specialising in build tools, performance, and user ex
 - **[SVGO](https://github.com/svg/svgo)** – SVG optimization tool
 - **[RIFM](https://github.com/TrySound/rifm)** – input formatting and mask for react
 - **[svg-parser](https://github.com/Rich-Harris/svg-parser)** – SVG string parser into XAST format
-- **[read-cache](https://github.com/TrySound/read-cache) - cached reading files library with 35M downloads weekly
+- **[read-cache](https://github.com/TrySound/read-cache)** - cached reading files library with 35M downloads weekly
 
 ## 🏗️ Previously worked on
 
