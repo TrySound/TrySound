@@ -5,8 +5,8 @@ I build developer tools, design systems and web-based applications.
 ## 🔨 My open source work
 
 - **[SVGO](https://github.com/svg/svgo)** – maintainer of the SVG optimization tool used across modern frontend tooling
-- **[postcss-value-parser](https://github.com/postcss/postcss-value-parser)** – creator,  parser/serializer of CSS values with 100M weekly downloads, used inside of [cssnano](https://github.com/cssnano/cssnano) and [stylelint](https://github.com/stylelint/stylelint/)
-- **[RIFM](https://github.com/TrySound/rifm)** – input formatting and mask for react
+- **[postcss-value-parser](https://github.com/postcss/postcss-value-parser)** – creator,  parser/serializer of CSS values used inside of [cssnano](https://github.com/cssnano/cssnano) and [stylelint](https://github.com/stylelint/stylelint/), 100M weekly downloads
+- **[RIFM](https://github.com/TrySound/rifm)** – input formatting and mask for react, 1M weekly downloads
 - **[svg-parser](https://github.com/Rich-Harris/svg-parser)** – SVG string parser into XAST format
 - **[Engramma](https://github.com/TrySound/engramma)** – design tokens tool
 
